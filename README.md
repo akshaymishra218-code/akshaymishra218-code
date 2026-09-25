@@ -1,7 +1,8 @@
-# Hi, I'm Akki 👋
-### Web Developer | BCA Student | Tech Enthusiast
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Learning+Full-Stack+Development;Turning+ideas+into+code)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=40&duration=1&pause=1000&color=FF5376&center=true&vCenter=true&width=500&height=70&lines=Hello!+I'm+Akki" alt="Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=20&duration=1&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=35&lines=Turning+ambition+into+an+empire.;Dreaming+loud,+executing+silent.;Architecting+the+vision+from+day+one." alt="Subtitle" />
 
 </div>
 
