@@ -55,5 +55,5 @@
 🎯 **Long-term Goal:** Aspiring tech entrepreneur working toward leading and scaling a company as CEO.<br/>
 💬 **Ask me about:** HTML, CSS, JavaScript, responsive UI design, and e-commerce operations.<br/>
 📫 **How to reach me:** [akshaymishra218@gmail.com](mailto:akshaymishra218@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akkimishra/).<br/>
-⚡ **Fun fact:** Blending extensive retail operations experience with software development to build business-driven tech.
+⚡ **Fun fact:** Blending extensive retail operations experience with software development to build business driven tech.
 </div>
