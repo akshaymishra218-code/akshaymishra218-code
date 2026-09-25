@@ -28,9 +28,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshaymishra218-code&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaymishra218-code&theme=tokyonight&hide_border=true" alt="streak stats" />
 </div>
 
