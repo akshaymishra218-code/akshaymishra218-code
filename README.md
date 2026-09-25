@@ -34,9 +34,13 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshaymishra218-code&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div> with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### ⚡ Quick Facts
+
+- 🎯 **Long-term Goal:** Aspiring tech entrepreneur working toward leading and scaling a company as CEO.
+- 💬 **Ask me about:** HTML, CSS, JavaScript, responsive UI design, and e-commerce operations.
+- 📫 **How to reach me:** [akshaymishra218@gmail.com](mailto:akshaymishra218@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/akkimishra/).
+- ⚡ **Fun fact:** Blending extensive retail operations experience with software development to build business-driven tech.
